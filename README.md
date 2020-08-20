@@ -1,6 +1,6 @@
 ## Advanced Lane Finding
 
-In this project, a software pipeline was built to identify the lane boundaries in a video. Included in the repository is a detailed document explaining the steps followed in the project "Project2_Writeup".  
+In this project, a software pipeline was built to identify the lane boundaries in a video. Included in the repository is a detailed document explaining the steps followed in the project "Project2_Writeup.pdf".  
 
 The Project
 ---
